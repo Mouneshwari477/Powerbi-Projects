@@ -81,9 +81,6 @@ It provides an end-to-end view of company performance across sales, distributors
 
 The dashboard is designed with a clean, professional pharma-style theme and features multi-page navigation for deep analysis.
 
-### Dataset
-The dataset is sourced from each distributor. It contains Pharmaceutical Manufacturing Company’s, Wholesale-Retail Data. The field description of the raw data is given below. The raw dataset pharma-data.csv can be downloaded from here
-
 ### 📌 Project Overview
 
 The main objective of this dashboard is to help stakeholders understand:
