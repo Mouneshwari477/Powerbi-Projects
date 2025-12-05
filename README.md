@@ -167,3 +167,7 @@ Open the .pbix file in Power BI Desktop
 Use the slicers to explore sales across Products, Years, Teams & Channels
 
 Navigate between pages using the arrow icons
+
+# 3.Vendor Performance Analysis 
+### 📝 Project Overview
+This project provides a comprehensive analysis of vendor performance by leveraging inventory, sales, and purchase data. The primary objective is to strategically identify top-performing and low-performing vendors to optimize vendor selection, reduce costs, and ultimately enhance profitability. This is achieved through a structured data analysis workflow that includes data ingestion, processing, exploratory data analysis (EDA), and statistical hypothesis testing. The final insights are presented in an interactive Power BI dashboard for intuitive visualization and decision-making.
